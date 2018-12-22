@@ -21,6 +21,12 @@ Foo Bar
 Whatever YouWant
 `
 
+Then install selenium by using:
+
+`python -m pip install selenium`
+
+The next step is to launch the software
+
 The python interpreter will prompt you for your 2FA.
 
 ## Misc
